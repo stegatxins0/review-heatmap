@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/glutanimate/review-heatmap/raw/master/screenshots/0.7.0_regular_year.png"></p>
 
-<h2 align="center">Review Heatmap for Anki</h2>
+<h2 align="center">Fork of Review Heatmap for Anki</h2>
 
 <p align="center">
 <a title="Latest (pre-)release" href="https://github.com/glutanimate/review-heatmap/releases"><img src ="https://img.shields.io/github/release-pre/glutanimate/review-heatmap.svg?colorB=brightgreen"></a>
@@ -11,6 +11,8 @@
 <a title="Support me on Patreon :D" href="https://www.patreon.com/bePatron?u=7522179"><img src="https://img.shields.io/badge/patreon-support-%23f96854.svg"></a>
 <a title="Follow me on Twitter" href="https://twitter.com/intent/user?screen_name=glutanimate"><img src="https://img.shields.io/twitter/follow/glutanimate.svg"></a>
 </p>
+
+Fork of [review-heatmap from glutanimate](https://github.com/glutanimate/review-heatmap) with inverted color for night mode removed. 
 
 > Your learning performance at a glance
 
